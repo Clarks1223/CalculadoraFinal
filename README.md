@@ -17,3 +17,9 @@ ingreso el segundo numero
 Muestro el resultado con el boton igual
 
 ![image](https://user-images.githubusercontent.com/117754080/214723623-4544ae2f-bdbd-4748-a495-b570d85c010f.png)
+
+VIDEO:
+
+
+https://user-images.githubusercontent.com/117754080/214730098-ea0dc56f-7222-436e-89e2-0cd040c1adb8.mp4
+
